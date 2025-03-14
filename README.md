@@ -1,45 +1,70 @@
-🚀 Mateusz Wirkus - Project Zomboid Website Design
-📌 Overview
-A modern, responsive Project Zomboid Server website showcasing my skills.
-🛠 Technologies Used
+# 🚀 Mateusz Wirkus - Project Zomboid Server Website
 
-Framework: Next.js 14
-Styling: Tailwind CSS
-UI Library: Hero UI
-Animation: Framer Motion
-Deployment: Vercel
+## 📌 Overview
 
-✨ Features
+A modern, responsive website designed for the Project Zomboid server, showcasing my skills in web development and design.
 
-Responsive Design
-Dark Mode Support
-Smooth Scroll Animations
-Interactive Skill Bars
-Project Showcase
-Contact Section
+## 🛠 Technologies Used
 
-🚀 Getting Started
-Installation
-bashCopy# Clone the repository
-git clone https://github.com/yourusername/portfolio-website.git
+- **Framework**: [Next.js 14](https://nextjs.org/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **UI Library**: [Hero UI](https://www.heroui.com/)
+- **Animations**: [Framer Motion](https://www.framer.com/motion/)
+- **Deployment**: [Vercel](https://vercel.com/)
 
-# Navigate to the project directory
-cd portfolio-website
+## ✨ Features
 
-# Install dependencies
-npm install
+- **Responsive Design**: Ensures optimal viewing experience across various devices.
+- **Dark Mode Support**: Allows users to switch between light and dark themes.
+- **Smooth Scroll Animations**: Provides a seamless scrolling experience with subtle animations.
+- **Interactive Skill Bars**: Displays skills using dynamic progress bars.
+- **Project Showcase**: Highlights completed projects and achievements.
+- **Contact Section**: Enables visitors to get in touch through a contact form.
 
-# Run the development server
-npm run dev
-🌐 Deployment
-Easily deployable on Vercel with zero configuration. Just connect your GitHub repository.
-📫 Contact
+## 🚀 Getting Started
 
-Email: mateusz.nowak@example.com
-LinkedIn: [Your LinkedIn Profile]
-GitHub: [Your GitHub Profile]
+To run this project locally, follow these steps:
 
-📄 License
-This project is open source and available under the MIT License.
+### Installation
 
-Crafted with ❤️ by Mateusz Wirkus
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/yourusername/pz-zomboid.git
+
+
+## /////////////////////////////////////////////////////////////////////////////////////////
+
+### PL
+
+## 📌 Opis
+
+Nowoczesna, responsywna strona internetowa dla serwera Project Zomboid, prezentująca moje umiejętności w zakresie projektowania i programowania.
+
+## 🛠 Wykorzystane Technologie
+
+- **Framework**: [Next.js 14](https://nextjs.org/)
+- **Stylizacja**: [Tailwind CSS](https://tailwindcss.com/)
+- **Biblioteka UI**: [Hero UI](https://www.heroui.com/)
+- **Animacje**: [Framer Motion](https://www.framer.com/motion/)
+- **Hosting**: [Vercel](https://vercel.com/)
+
+## ✨ Funkcje
+
+- **Responsywny Design**: Strona dostosowuje się do różnych rozdzielczości ekranów.
+- **Obsługa Trybu Ciemnego**: Możliwość przełączania między jasnym a ciemnym motywem.
+- **Płynne Animacje Przewijania**: Subtelne animacje podczas przewijania strony.
+- **Interaktywne Paski Umiejętności**: Wizualizacja umiejętności za pomocą dynamicznych pasków.
+- **Prezentacja Projektów**: Sekcja przedstawiająca zrealizowane projekty.
+- **Sekcja Kontaktowa**: Formularz umożliwiający kontakt ze mną.
+
+## 🚀 Rozpoczęcie Pracy
+
+Aby uruchomić projekt lokalnie, wykonaj poniższe kroki:
+
+### Instalacja
+
+1. **Sklonuj repozytorium:**
+
+   ```bash
+   git clone https://github.com/yourusername/pz-zomboid.git
