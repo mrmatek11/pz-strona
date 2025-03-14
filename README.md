@@ -33,7 +33,6 @@ To run this project locally, follow these steps:
    git clone https://github.com/yourusername/pz-zomboid.git
 
 
-## /////////////////////////////////////////////////////////////////////////////////////////
 
 ### PL
 
