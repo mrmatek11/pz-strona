@@ -1,53 +1,45 @@
-# Next.js & HeroUI Template
+🚀 Mateusz Wirkus - Personal Portfolio
+📌 Overview
+A modern, responsive personal portfolio website showcasing my skills, projects, and professional journey as a Front-End Developer.
+🛠 Technologies Used
 
-This is a template for creating applications using Next.js 14 (app directory) and HeroUI (v2).
+Framework: Next.js 14
+Styling: Tailwind CSS
+UI Library: Hero UI
+Animation: Framer Motion
+Deployment: Vercel
 
-[Try it on CodeSandbox](https://githubbox.com/heroui-inc/heroui/next-app-template)
+✨ Features
 
-## Technologies Used
+Responsive Design
+Dark Mode Support
+Smooth Scroll Animations
+Interactive Skill Bars
+Project Showcase
+Contact Section
 
-- [Next.js 14](https://nextjs.org/docs/getting-started)
-- [HeroUI v2](https://heroui.com/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Tailwind Variants](https://tailwind-variants.org)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Framer Motion](https://www.framer.com/motion/)
-- [next-themes](https://github.com/pacocoursey/next-themes)
+🚀 Getting Started
+Installation
+bashCopy# Clone the repository
+git clone https://github.com/yourusername/portfolio-website.git
 
-## How to Use
+# Navigate to the project directory
+cd portfolio-website
 
-### Use the template with create-next-app
-
-To create a new project based on this template using `create-next-app`, run the following command:
-
-```bash
-npx create-next-app -e https://github.com/heroui-inc/next-app-template
-```
-
-### Install dependencies
-
-You can use one of them `npm`, `yarn`, `pnpm`, `bun`, Example using `npm`:
-
-```bash
+# Install dependencies
 npm install
-```
 
-### Run the development server
-
-```bash
+# Run the development server
 npm run dev
-```
+🌐 Deployment
+Easily deployable on Vercel with zero configuration. Just connect your GitHub repository.
+📫 Contact
 
-### Setup pnpm (optional)
+Email: mateusz.nowak@example.com
+LinkedIn: [Your LinkedIn Profile]
+GitHub: [Your GitHub Profile]
 
-If you are using `pnpm`, you need to add the following code to your `.npmrc` file:
+📄 License
+This project is open source and available under the MIT License.
 
-```bash
-public-hoist-pattern[]=*@heroui/*
-```
-
-After modifying the `.npmrc` file, you need to run `pnpm install` again to ensure that the dependencies are installed correctly.
-
-## License
-
-Licensed under the [MIT license](https://github.com/heroui-inc/next-app-template/blob/main/LICENSE).
+Crafted with ❤️ by Mateusz Wirkus
