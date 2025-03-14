@@ -62,6 +62,7 @@ const AdminSection = () => {
               />
             </Tooltip>
             <div className="text-center">
+              <div className="w-16 h-[2px] bg-black/50 mx-auto mb-2"></div>
               <Badge 
                 color={admin.color as any} 
                 variant="shadow" 

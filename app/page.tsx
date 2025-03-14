@@ -12,7 +12,7 @@ import { Tooltip } from "@heroui/tooltip";
 import Image from "next/image";
 import { useScroll, useTransform } from "framer-motion";
 import { useRef } from "react";
-import AdminSection from "./AdminSection";
+import AdminSection from "./adminsection";
 
 
 
@@ -74,7 +74,7 @@ const HeroSection = () => {
             ease: "easeInOut"
           }}
           className="absolute inset-0 bg-red-700/20 rounded-2xl blur-2xl"
-        />
+        ></motion.div>
 
         {/* Character Image with Subtle Hover Effect */}
         <motion.div
@@ -254,7 +254,7 @@ export default function DZHLandingPage() {
             ))}
           </div>
         </motion.section>
-
+<AdminSection />
         <Divider className="my-12" />
 
 
