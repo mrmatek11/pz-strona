@@ -1,6 +1,6 @@
-🚀 Mateusz Wirkus - Personal Portfolio
+🚀 Mateusz Wirkus - Project Zomboid Website Design
 📌 Overview
-A modern, responsive personal portfolio website showcasing my skills, projects, and professional journey as a Front-End Developer.
+A modern, responsive Project Zomboid Server website showcasing my skills.
 🛠 Technologies Used
 
 Framework: Next.js 14
